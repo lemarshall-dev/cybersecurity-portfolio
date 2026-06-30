@@ -3,7 +3,7 @@ My cybersecurity study journey along with lab write-ups
 
 # Cybersecurity Portfolio
 
-Hi, I'm learning cybersecurity while working full-time. This repo documents my progress, labs, and projects as I build skills towards becoming a cybersecurity analyst.
+Hi, I'm learning cybersecurity while working full-time in Admin. This repo will document my progress, labs, and projects as I build skills towards becoming a cybersecurity analyst.
 
 ## Skills I'm currently Learning
 - Networking fundamentals
