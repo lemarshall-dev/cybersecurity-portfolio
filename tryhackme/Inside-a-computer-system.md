@@ -2,9 +2,9 @@
 
 ## Objective
 
-## What I did
-
 ## Tools used
+
+## What I did
 
 ## What did I learn
 
