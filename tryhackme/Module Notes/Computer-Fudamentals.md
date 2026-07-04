@@ -38,7 +38,7 @@ Learning Objectives
 - Benefits of cloud computing
 - How big companies are using the cloud
 
-
+![alt text](image.png)
 
 
 
