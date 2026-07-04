@@ -26,7 +26,10 @@
 
 The GET method is used to retrieve files from a web server, see above example. 
 You can explore the GET method via the inspect tool on most browsers. You will see things like:
-  - 
+
+
+## Cloud Computing Fundamentals
+
 
 
 
