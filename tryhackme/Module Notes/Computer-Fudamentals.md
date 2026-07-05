@@ -30,14 +30,6 @@ You can explore the GET method via the inspect tool on most browsers. You will s
 
 ## Cloud Computing Fundamentals
 
-Learning Objectives
-
-- What is cloud computing
-- Service models of cloud (IaaS, PaaS, SaaS)
-- Cloud Types (Private/Public/Hybrid)
-- Benefits of cloud computing
-- How big companies are using the cloud
-
 ### Cloud Evolution
 
 ![alt text](image.png)
@@ -47,6 +39,15 @@ Learning Objectives
   - Public (Every use case, no infastructure managment required)
   - Private (Perfect for banks, healthcare etc, greater compliance for sensitive data)
   - Hybrid (Perfect for companies in e-commerce who need to keep sensitive data but also scale publicly)
+
+### Hypervisors
+A hypervisor is a software that you can use to run multiple virtual machines on a single physical machine. Every virtual machine has its own operating system and applications.
+
+Benefits of Hypervisors:
+  - Hardware Independence - you aren't restricted by hardware. i.e, running MacOS on a windows machine
+  - Efficiency - Hypervisors can be configured to immediately create your virtual computer, no time consuming hardware setup. 
+  - Scalability - Organisations use hypervisors to maximise resources on physical machines, allowing them to create multiple VMs on a single machine rather than individual machines for singular workloads. 
+  - Portability - They can have additional resources allocated to them on the fly and IT teams can allocate resources across multiple servers
 
 ### Cloud Service Models
 - Infrastructure as a Service (IaaS): You rent basic computing resources such as virtual servers, storage, and networking. You are responsible for managing the operating system and your application, while the provider manages the physical hardware.
