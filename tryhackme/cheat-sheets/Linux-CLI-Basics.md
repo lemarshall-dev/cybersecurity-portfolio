@@ -23,6 +23,8 @@ I.E. (find ~ -name mission_brief.txt)
 ### System
 1. whoami | prints which user you're logged in as.
 2. uname -a | Provides a full line of system info
+3. ssh USERNAME@HOST | This is used to establish a secure connection to a server or other computer over the network. Username = the account on machine and HOST = the IP address of the machine.
+4. history | This prints a history of all commands used in terminal by that user.
 
 ### Disk/Storage
 1. df -h | This provides a breakdown of disk usage as well as available space. -h stands for human readable. Tmpfs are temporary file systems stored on RAM, not the physical disk/drive. SHM is shared memory.
